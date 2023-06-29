@@ -1,0 +1,1 @@
+Apresentei uma aula para os alunos da minha turma durante o terceiro semestre na matéria de Desenvolvimento Web III. Ensinando como se usa Cookies em navegadores na prática, entao o slide não apresenta as informações de códigos.
